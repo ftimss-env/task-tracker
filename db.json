@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Cooking Meal for Ramadan",
+      "day": "Apr 5th at 6:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Message Manaal on Teams",
+      "day": "Apr 5th at 9:00am",
+      "reminder": true
+    }
+  ]
+}
