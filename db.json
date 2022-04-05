@@ -11,6 +11,12 @@
       "text": "Message Manaal on Teams",
       "day": "Apr 5th at 9:00am",
       "reminder": true
+    },
+    {
+      "text": "Update Paperwork",
+      "day": "Apr 8th at 11:00am",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
